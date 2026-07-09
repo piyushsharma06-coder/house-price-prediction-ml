@@ -1,6 +1,6 @@
 # ==========================================================
 # Task 2: House Price Prediction using Linear Regression
-# Author: Shivans Sharma
+# Author: Piyush Ranjan
 # Description:
 # This program predicts house prices using a Linear Regression
 # model with the Kaggle House Prices dataset.
